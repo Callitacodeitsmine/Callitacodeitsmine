@@ -6,7 +6,7 @@ Hacktoberfest 2023
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Callitacodeitsmine&label=Profile%20views&color=0e75b6&style=flat" alt="Callitacodeitsmine" /> </p>
 
-<p align="space-around"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Callitacodeitsmine" alt="Callitacodeitsmine" /></a> </p>
+<p align="space-around"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Callitacodeitsmine&column=-1" alt="Callitacodeitsmine" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/TomarRiya23026" target="blank"><img src="https://img.shields.io/twitter/follow/TomarRiya23026?logo=twitter&style=for-the-badge" alt="TomarRiya23026" /></a> </p>
 
