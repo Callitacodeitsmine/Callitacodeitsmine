@@ -1,7 +1,7 @@
 Hacktoberfest 2023
 [![An image of @callitacodeitsmine's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/callitacodeitsmine)](https://holopin.io/@callitacodeitsmine)
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Riya </h2>
 
 ###
 
