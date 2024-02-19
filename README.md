@@ -47,6 +47,6 @@ Hacktoberfest 2023
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Callitacodeitsmine/Callitacodeitsmine/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
