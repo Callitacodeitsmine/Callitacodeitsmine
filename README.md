@@ -9,8 +9,8 @@
 
 ###
 
-<img align="right" height="150" src="https://github.com/user-attachments/assets/70c4e7f3-133b-4e16-940a-050939d60bb0" alt="Resume"/ >
-<img align="right" height="150" src="https://github.com/user-attachments/assets/e87993c3-4850-4ad5-acae-df494a049c46" alt="Portfolio"/ >
+<img align="right" height="150" src="https://github.com/user-attachments/assets/70c4e7f3-133b-4e16-940a-050939d60bb0" alt="Resume">
+<img align="right" height="150" src="https://github.com/user-attachments/assets/e87993c3-4850-4ad5-acae-df494a049c46" alt="Portfolio">
 
 ###
 
