@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="![qr-code (4)](https://github.com/user-attachments/assets/70c4e7f3-133b-4e16-940a-050939d60bb0)"  />
+<img align="right" height="150" src="https://github.com/user-attachments/assets/70c4e7f3-133b-4e16-940a-050939d60bb0"  />
 
 ###
 
