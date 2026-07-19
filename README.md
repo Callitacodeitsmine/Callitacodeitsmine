@@ -1,12 +1,9 @@
 <h2 align="left">Hi 👋! My name is Riya </h2>
 
 ###
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Callitacodeitsmine&theme=dark" alt="Harshit's Contributions" /></p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Callitacodeitsmine&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Callitacodeitsmine&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
+###
 ###
 
 <img align="right" height="150" src="https://github.com/user-attachments/assets/70c4e7f3-133b-4e16-940a-050939d60bb0" alt="Resume">
@@ -30,10 +27,12 @@
 </div>
 
 ###
+###
+###
 
-Hacktoberfest 2023
 [![An image of @callitacodeitsmine's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/callitacodeitsmine)](https://holopin.io/@callitacodeitsmine)
 
+###
 
 <div align="left">
     <a href="https://www.youtube.com/@RiyaTomar-gt6ho/videos" target="_blank">
