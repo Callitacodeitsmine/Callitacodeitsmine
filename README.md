@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! My name is Riya </h2>
 
 ###
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Callitacodeitsmine&theme=dark" alt="Harshit's Contributions" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Callitacodeitsmine&theme=dark" alt="Riya's Contributions" /></p>
 
 ###
 ###
